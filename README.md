@@ -6,6 +6,6 @@ Nome: João Victor da Silva Matos RA: 1900977
 4 - git add (print add)
 5 - dando git commit (print commit)
 6 - Fazendo checkout (print checkout)
-7 - Fazendo fetch
-
+7 - Fazendo fetch (print fetch)
+8 - Fazendo Pull
 
